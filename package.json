@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon index.js",
+    "start:dev": "node index.js",
     "buildcpp": "node-gyp configure build"
   },
   "keywords": [],
